@@ -1,6 +1,5 @@
 ## Fleur de Cerisier Café 
 * is a modern and user-friendly responsive café website developed using HTML, CSS, Bootstrap, and JavaScript.
-* It aims to present the café’s concept, menu, and products to visitors through an aesthetic and clean interface.
 You can visit the Fleur de Cerisier Café site via this link: https://fleur-de-cerisier-cafe.vercel.app
 <img width="1439" height="679" alt="1" src="https://github.com/user-attachments/assets/3d0e4af0-2273-4c97-9ed4-5ae283376ce8" />
 <img width="1439" height="679" alt="2" src="https://github.com/user-attachments/assets/9dee919b-e661-4c9c-9442-bf07d15e640b" />
